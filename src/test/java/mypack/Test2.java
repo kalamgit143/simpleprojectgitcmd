@@ -1,9 +1,9 @@
 package mypack;
 
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class Test2 
 {
-	ChromeDriver driver;
+	RemoteWebDriver driver;
 
 }
